@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": "2109",
+      "email": "ddd@ww",
+      "password": "sedddd",
+      "name": "ddd"
+    },
+    {
+      "id": "ce15",
+      "email": "dhruvil@test",
+      "password": "123456",
+      "name": "dhruvil"
+    },
+    {
+      "id": "5231",
+      "email": "shreyash@13",
+      "password": "123456",
+      "name": "shreyash"
+    },
+    {
+      "id": "3447",
+      "email": "mr@13",
+      "password": "1234567",
+      "name": "mr"
+    },
+    {
+      "id": "e06e",
+      "email": "shreyash@13",
+      "password": "123456",
+      "name": "shreyash"
+    },
+    {
+      "id": "ffa8",
+      "email": "sam@.com",
+      "password": "123456",
+      "name": "Sam"
+    }
+  ],
+  "restaurant": [
+    {
+      "id": "ce72",
+      "name": "KFC lite",
+      "contact": "88881",
+      "address": "Simla"
+    },
+    {
+      "name": "Vida restaurants",
+      "contact": "7889987889",
+      "address": "Jabalpur,Mp",
+      "id": "7a22"
+    }
+  ]
+}
